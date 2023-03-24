@@ -7,6 +7,7 @@
 
 body {
     font-family: 'Noto Sans TC', sans-serif;
+    background-image: url('assets/snow.png');
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
